@@ -1,0 +1,1 @@
+Der Code benötigt einen File im gdv-Format, und speichert alle Datein vom Teilsatz 100 in eine json, welche in einem Output Order gespeichert wird. Beispielbefehl: php gdv_splitter.php gdv_example.txt
